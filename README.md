@@ -156,19 +156,4 @@ http://localhost:5173
 * List Rendering
 * Local Storage
 
----
-
-## Future Enhancements
-
-* Due Date Management
-* Task Priority Levels
-* Dark Mode
-* Backend Integration
-* User Registration
-* REST API Integration
-
----
-
-## Author
-
-Manjunath
+------------------------------------------------------------------------------------------------------------------------------
