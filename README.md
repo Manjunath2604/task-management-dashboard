@@ -8,7 +8,7 @@ This project demonstrates React fundamentals including Components, JSX, useState
 ---
 
 ## Features
-
+ 
 ### Authentication
 
 * Login Functionality
